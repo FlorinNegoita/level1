@@ -23,6 +23,12 @@ public class ShootDemo : MonoBehaviour {
 	// Use this for initialization
 	
 	void Start () {
+
+			
+	
+	
+	
+
 		
 		
 		
@@ -33,6 +39,7 @@ public class ShootDemo : MonoBehaviour {
 	// Update is called once per frame
 	
 	void Update () {
+
 		
 				if (Input.GetButtonDown ("Fire1")) { 
 
@@ -53,12 +60,12 @@ public class ShootDemo : MonoBehaviour {
 			
 			
 			
-
-
-						}
-
+			
+					
 		
-				}
+			}
 
 		}
+
+	}
 }
